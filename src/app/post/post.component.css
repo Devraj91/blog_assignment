@@ -1,0 +1,26 @@
+li.social_item-wrapper {
+    float: left;
+    width: 48%;
+    text-align: center;
+    margin-right: 4% !important;
+    margin-bottom: 10px !important;
+    color: #fff;
+}
+
+.sidebar ul,
+.sidebar li,
+.mini-sidebar ul,
+.mini-sidebar li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* .post {
+    border: 1px solid;
+} */
+
+.post-heading {
+    font-weight: 500;
+}

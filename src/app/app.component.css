@@ -1,0 +1,71 @@
+.head {
+    background: #323232;
+    height: 30%;
+}
+
+.title-header {
+    background: #323232;
+    padding: 3em 0;
+}
+
+.container {
+    width: 960px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rel-container {
+    position: relative;
+}
+
+.page-head {
+    right: 0;
+    top: -20px;
+    position: absolute;
+    font-size: 30px;
+    color: bisque;
+}
+
+.bottom-dude {
+    height: 0em;
+    left: -10px;
+    top: -137px;
+    float: right;
+    position: relative;
+}
+
+.section-footer {
+    background: #b0bb0b;
+    height: 180px;
+    padding-top: 3.6em;
+}
+
+.section-footer strong {
+    color: #fff;
+    font-size: 1.8em;
+}
+
+strong {
+    font-weight: bold;
+}
+
+p {
+    margin-top: 0.35714em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+    margin-bottom: 0.71429em;
+}
+
+.envato-footer {
+    height: 80px;
+    background: #323232;
+}
+
+.envato-footer p {
+    float: left;
+    padding-top: 2em;
+    padding-left: 1em;
+    color: #676767;
+}
